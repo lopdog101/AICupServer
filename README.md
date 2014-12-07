@@ -1,4 +1,4 @@
 AICupServer
 ===========
 
-Server core for develop ai cup games
+Server for "Noughts and crosses (100x100)" ai cup game
